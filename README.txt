@@ -1,0 +1,1 @@
+In each folder, there are an event log file (.xes or .xml), a BPMN 2.0 file (.bpmn), an execution space file (.grs) and several png files for visualization of the BPMN and execution space files.
